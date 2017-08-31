@@ -23,7 +23,7 @@ nav a {
 }
 
 nav a:hover,
-#current {
+.current {
     border-bottom: 2px orange solid;
     font-size: 2em;
     transition: .9s;
@@ -45,9 +45,11 @@ footer {
     font-family: sans-serif;
 }
 
+
 table {
     margin: 0px auto;
 }
+
 
 td {
     padding: 10px;
@@ -74,4 +76,8 @@ h1{
     font-family: 'Pacifico', cursive;
     font-size: 4em;
     margin-bottom: 0px;
+}
+
+#googleForm{
+    text-align: center;
 }
