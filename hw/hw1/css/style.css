@@ -75,6 +75,9 @@ p {
 
 #video {
     padding: 25px;
+    width: 560px;
+    height: 315px;
+    frameborder: 0;
 }
 
 footer {
