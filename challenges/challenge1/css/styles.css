@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+}
+
+h2 {
+    color: yellow;
+    font-family: Pacifico;
+    text-align: center;
+}
+
+#spring {
+    border-radius: 100px 0px 0px 0px;
+}
+
+#summer {
+    border-radius: 0px 100px 0px 0px;
+}
+
+#fall {
+    border-radius: 0px 0px 0px 100px;
+}
+
+#winter {
+    border-radius: 0px 0px 100px 0px;
+}
+
+#pic1,
+#pic2 {
+    display: inline-block;
+    margin: 5px;
+}
+
+#pic3,
+#pic4 {
+    display: inline-block;
+    margin: 5px;
+}
+
+figcaption {
+    color: white;
+    text-align: center;
+    font-family: Pacifico;
+}
+
+#allDivs {
+    text-align: center;
+}
+
+img:hover {
+    transition: .9s;
+    width: 480px;
+    height: 330px;
+
+}
