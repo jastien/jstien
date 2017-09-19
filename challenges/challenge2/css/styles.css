@@ -1,0 +1,33 @@
+/*body {*/
+
+/*    background-color: black;*/
+
+/*}*/
+
+h1 {
+    color: black;
+    font-family: Pacifico;
+    text-align: center;
+}
+
+
+#reel1 {
+    left: 40px;
+    margin: 30px;
+    border: black solid 1px;
+}
+
+#reel2 {
+    left: 0px;
+    margin: 30px;
+    border: red solid 1px;
+
+}
+
+#output, form {
+    text-align: center;
+}
+
+/*form {*/
+/*    text-align: center;*/
+/*}*/

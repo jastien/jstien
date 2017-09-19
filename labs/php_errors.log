@@ -90,3 +90,7 @@
 [09-Sep-2017 18:11:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/labs/lab2/index.php:0
 [09-Sep-2017 18:11:43 UTC] PHP   2. play() /home/ubuntu/workspace/jstien/labs/lab2/index.php:18
 [09-Sep-2017 18:11:43 UTC] PHP   3. displayPoints() /home/ubuntu/workspace/jstien/labs/lab2/inc/functions.php:24
+[14-Sep-2017 17:22:37 UTC] PHP Parse error:  syntax error, unexpected '$suits' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/jstien/labs/lab3/index.php on line 7
+[14-Sep-2017 17:22:39 UTC] PHP Parse error:  syntax error, unexpected '$suits' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/jstien/labs/lab3/index.php on line 7
+[14-Sep-2017 17:23:43 UTC] PHP Parse error:  syntax error, unexpected 'array_rand' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/jstien/labs/lab3/index.php on line 9
+[14-Sep-2017 17:23:44 UTC] PHP Parse error:  syntax error, unexpected 'array_rand' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/jstien/labs/lab3/index.php on line 9

@@ -6,3 +6,7 @@
 [07-Sep-2017 18:00:52 UTC] PHP Parse error:  syntax error, unexpected '";"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/jstien/practice/randomBgColor.php on line 61
 [07-Sep-2017 18:00:53 UTC] PHP Parse error:  syntax error, unexpected '";"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/jstien/practice/randomBgColor.php on line 61
 [07-Sep-2017 18:00:53 UTC] PHP Parse error:  syntax error, unexpected '";"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/jstien/practice/randomBgColor.php on line 61
+[12-Sep-2017 18:22:05 UTC] PHP Warning:  array_pop() expects exactly 1 parameter, 0 given in /home/ubuntu/workspace/jstien/practice/arrays.php on line 41
+[12-Sep-2017 18:22:05 UTC] PHP Stack trace:
+[12-Sep-2017 18:22:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/practice/arrays.php:0
+[12-Sep-2017 18:22:05 UTC] PHP   2. array_pop() /home/ubuntu/workspace/jstien/practice/arrays.php:41

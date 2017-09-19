@@ -1,0 +1,45 @@
+header{
+    color: red;
+    text-align: center;
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #84c8ff;
+}
+
+#backCard{
+    height: 90px;
+    width: 70px;
+}
+
+#formID {
+    padding: 50px;
+    text-align: center;
+}
+
+img{
+    background-color: white;
+    margin: 0;
+
+}
+
+p{
+    font-size: 25px;
+}
+
+#main{
+    background-color: white;
+}
+
+#reel{
+    padding: 50px;
+}
+
+#littleButton {
+    font-size: 30px;
+    color: red;
+}

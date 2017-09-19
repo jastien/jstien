@@ -1,0 +1,24 @@
+[12-Sep-2017 17:34:24 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/jstien/challenges/challenge2/inc/functions.php on line 11
+[12-Sep-2017 17:34:24 UTC] PHP Stack trace:
+[12-Sep-2017 17:34:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/challenges/challenge2/index.php:0
+[12-Sep-2017 17:34:24 UTC] PHP   2. play() /home/ubuntu/workspace/jstien/challenges/challenge2/index.php:31
+[12-Sep-2017 17:35:17 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/jstien/challenges/challenge2/inc/functions.php on line 11
+[12-Sep-2017 17:35:17 UTC] PHP Stack trace:
+[12-Sep-2017 17:35:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/challenges/challenge2/index.php:0
+[12-Sep-2017 17:35:17 UTC] PHP   2. play() /home/ubuntu/workspace/jstien/challenges/challenge2/index.php:31
+[12-Sep-2017 17:35:18 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/jstien/challenges/challenge2/inc/functions.php on line 11
+[12-Sep-2017 17:35:18 UTC] PHP Stack trace:
+[12-Sep-2017 17:35:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/challenges/challenge2/index.php:0
+[12-Sep-2017 17:35:18 UTC] PHP   2. play() /home/ubuntu/workspace/jstien/challenges/challenge2/index.php:31
+[12-Sep-2017 17:35:19 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/jstien/challenges/challenge2/inc/functions.php on line 11
+[12-Sep-2017 17:35:19 UTC] PHP Stack trace:
+[12-Sep-2017 17:35:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/challenges/challenge2/index.php:0
+[12-Sep-2017 17:35:19 UTC] PHP   2. play() /home/ubuntu/workspace/jstien/challenges/challenge2/index.php:31
+[12-Sep-2017 17:35:19 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/jstien/challenges/challenge2/inc/functions.php on line 11
+[12-Sep-2017 17:35:19 UTC] PHP Stack trace:
+[12-Sep-2017 17:35:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/challenges/challenge2/index.php:0
+[12-Sep-2017 17:35:19 UTC] PHP   2. play() /home/ubuntu/workspace/jstien/challenges/challenge2/index.php:31
+[12-Sep-2017 17:35:20 UTC] PHP Fatal error:  Call to undefined function displayPoints() in /home/ubuntu/workspace/jstien/challenges/challenge2/inc/functions.php on line 11
+[12-Sep-2017 17:35:20 UTC] PHP Stack trace:
+[12-Sep-2017 17:35:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/challenges/challenge2/index.php:0
+[12-Sep-2017 17:35:20 UTC] PHP   2. play() /home/ubuntu/workspace/jstien/challenges/challenge2/index.php:31
