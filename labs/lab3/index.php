@@ -92,30 +92,11 @@ function identifyWinner($p1, $p2) {
 <html>
     <head>
         <title> Lab 3: Ace Poker </title>
+        
         <style>
-            
-            .ace{
-                border:yellow 2px solid;
-            }
-            
-            h1, h2 {
-                text-align: center;
-            }
-            
-           img {
-	            width:12%;
-	            vertical-align:middle;
-            }
-            
-            #content{
-    	        width:950px;
-	            margin:0 auto;
-	            text-align:center;
-	            /*border: 1px red solid;*/
-            }
-            
-            
+            @import url('css/styles.css');
         </style>
+        
     </head>
     <body>
         
