@@ -1,0 +1,37 @@
+/*.helpMethod{*/
+/*    align: center;*/
+/*}*/
+
+/*p{*/
+/*    text-decoration: underline;*/
+/*}*/
+
+form{
+    border: 1px solid red;
+    width: 800px;
+    display: inline-block;
+    padding: 30px;
+}
+
+.input{
+    font-size: 20px; 
+    font-weight: bold;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#output{
+    display: inline-block;
+    border: 1px solid green;
+    position: relative;left:50px;top:-400px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.output{
+    font-family:'Open Sans Condensed', sans-serif; wix
+}
+

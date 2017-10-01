@@ -17,8 +17,6 @@ function displayHand() {
     $handPoints = 0;
     $handAces = 0;
     
-    
-    
     for ($i = 0 ; $i < 5 ; $i++) {
         $lastCard = array_pop($deck);
         $cardValue = $lastCard % 13;
