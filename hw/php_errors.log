@@ -4183,3 +4183,32 @@
 [27-Sep-2017 17:18:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/hw/hw3/index.php:0
 [27-Sep-2017 20:11:29 UTC] PHP Parse error:  syntax error, unexpected 'output' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/jstien/hw/hw3/index.php on line 82
 [27-Sep-2017 20:11:31 UTC] PHP Parse error:  syntax error, unexpected 'output' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/jstien/hw/hw3/index.php on line 82
+[04-Oct-2017 17:49:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/jstien/hw/hw3/result.php on line 36
+[04-Oct-2017 17:49:57 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/ubuntu/workspace/jstien/hw/hw3/result.php on line 34
+[04-Oct-2017 17:50:14 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/ubuntu/workspace/jstien/hw/hw3/result.php on line 34
+[04-Oct-2017 17:50:16 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/ubuntu/workspace/jstien/hw/hw3/result.php on line 34
+[04-Oct-2017 18:05:15 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php on line 10
+[04-Oct-2017 18:05:15 UTC] PHP Stack trace:
+[04-Oct-2017 18:05:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php:0
+[04-Oct-2017 18:07:06 UTC] PHP Fatal error:  Call to undefined function calculateBMI() in /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php on line 9
+[04-Oct-2017 18:07:06 UTC] PHP Stack trace:
+[04-Oct-2017 18:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php:0
+[04-Oct-2017 18:08:19 UTC] PHP Fatal error:  Call to undefined function calculateBMI() in /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php on line 9
+[04-Oct-2017 18:08:19 UTC] PHP Stack trace:
+[04-Oct-2017 18:08:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php:0
+[04-Oct-2017 18:09:44 UTC] PHP Fatal error:  Call to undefined function calculateBMI() in /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php on line 9
+[04-Oct-2017 18:09:44 UTC] PHP Stack trace:
+[04-Oct-2017 18:09:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php:0
+[04-Oct-2017 18:10:37 UTC] PHP Fatal error:  Call to undefined function calculateBMI() in /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php on line 9
+[04-Oct-2017 18:10:37 UTC] PHP Stack trace:
+[04-Oct-2017 18:10:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php:0
+[04-Oct-2017 18:12:02 UTC] PHP Fatal error:  Call to undefined function calculateBMI() in /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php on line 9
+[04-Oct-2017 18:12:02 UTC] PHP Stack trace:
+[04-Oct-2017 18:12:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php:0
+[04-Oct-2017 18:12:50 UTC] PHP Fatal error:  Call to undefined function calculateBMI() in /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php on line 9
+[04-Oct-2017 18:12:50 UTC] PHP Stack trace:
+[04-Oct-2017 18:12:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/hw/hw3/bmi2.php:0
+[04-Oct-2017 19:27:27 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/jstien/hw/hw3/results.php on line 85
+[04-Oct-2017 19:27:27 UTC] PHP Stack trace:
+[04-Oct-2017 19:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/hw/hw3/results.php:0
+[04-Oct-2017 19:27:27 UTC] PHP   2. calculateBmi() /home/ubuntu/workspace/jstien/hw/hw3/results.php:104
