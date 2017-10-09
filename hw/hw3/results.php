@@ -13,8 +13,8 @@
         <div id="results">
             
             <h2> Your input:</h2>
-            Your weight: <?php echo $_POST["weight"]; ?><br>
-            Your height: <?php echo $_POST["height"]; ?><br><br>
+            Your weight: <?php echo $_POST["weight"]; ?> kg <br>
+            Your height: <?php echo $_POST["height"]; ?> cm <br><br>
             
             <a href="index.php">Back to calculator</a> 
             
