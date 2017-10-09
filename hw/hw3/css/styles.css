@@ -1,37 +1,51 @@
-/*.helpMethod{*/
-/*    align: center;*/
-/*}*/
-
-/*p{*/
-/*    text-decoration: underline;*/
-/*}*/
-
-form{
-    border: 1px solid red;
-    width: 800px;
-    display: inline-block;
-    padding: 30px;
+#subheader{
+    font-family: 'Abel', sans-serif;
+    text-align: center;
 }
 
-.input{
-    font-size: 20px; 
-    font-weight: bold;
-    font-family: 'Open Sans Condensed', sans-serif;
+#bmiForm{
+    font-family: 'Abel', sans-serif;
+    display: inline-block;
+    /*border: solid 1px red;*/
+    padding: 100px;
 }
 
-#output{
+#img1, #img2{
     display: inline-block;
-    border: 1px solid green;
-    position: relative;left:50px;top:-400px;
+    margin: 50px;
+    /*border: solid 1px black;*/
+    position: relative;
+    top: -200px;
+}
+
+#content{
+    text-align: center;
+}
+
+
+p{
+    font-family: 'Abel', sans-serif;
 }
 
 h2{
-    font-size: 30px;
-    font-weight: bold;
-    font-family: 'Open Sans Condensed', sans-serif;
+   font-family: 'Abel', sans-serif; 
 }
 
-.output{
-    font-family:'Open Sans Condensed', sans-serif; wix
+#results{
+    font-family: 'Abel', sans-serif; 
+    text-align: center;
+    padding: 20px;
+}
+
+#resultsContent{
+    width: 500px;
+    /*border: solid 2px green;*/
+    text-align: center;
+    margin: auto;
+}
+
+#chartImage{
+    text-align: center;
+    /*border: solid 2px blue;*/
 }
 

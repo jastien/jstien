@@ -4212,3 +4212,10 @@
 [04-Oct-2017 19:27:27 UTC] PHP Stack trace:
 [04-Oct-2017 19:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/hw/hw3/results.php:0
 [04-Oct-2017 19:27:27 UTC] PHP   2. calculateBmi() /home/ubuntu/workspace/jstien/hw/hw3/results.php:104
+[08-Oct-2017 21:27:54 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/jstien/hw/hw3/results.php on line 60
+[08-Oct-2017 21:27:54 UTC] PHP Stack trace:
+[08-Oct-2017 21:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/hw/hw3/results.php:0
+[08-Oct-2017 21:27:54 UTC] PHP   2. calculateBmi() /home/ubuntu/workspace/jstien/hw/hw3/results.php:79
+[08-Oct-2017 22:52:07 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ubuntu/workspace/jstien/hw/hw3/results.php on line 23
+[08-Oct-2017 22:54:39 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ubuntu/workspace/jstien/hw/hw3/results.php on line 23
+[09-Oct-2017 18:12:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/jstien/hw/hw3/results.php on line 146
