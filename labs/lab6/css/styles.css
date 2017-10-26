@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    font-size: 40px;
+    color: black;
+}
+
+#content{
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    padding: 20px;
+    border: 1px grey solid;
+    width: 400px;
+}
+
+footer{
+    text-align: center;
+}
+
+.quotes{
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    color: black;
+    font-size: 20px;
+    
+}
+
+body{
+    background-color: #E0E0E0;
+}

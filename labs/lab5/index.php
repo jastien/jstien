@@ -12,7 +12,7 @@
     // //we will be able to see some errors with database 
     // $dbConn -> setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); 
 
-    include '../../dbConnection.php';
+    include '../../dbConnectionQuotes.php';
     $dbConn = getDatabaseConnection();
 
 //prepare, execute and fetch. These commands allow us to access data from database.
@@ -132,7 +132,7 @@
     
        
     //Step 2: Retreiving quote based on Random Quote Id
-        $sql = "SELECT quote, firstName, lastName, authorId
+        $sql = "SELECT quote, firstName, lastName, authorId, picture
                 FROM q_quote 
                 NATURAL JOIN q_author
                 WHERE quoteId = $quoteId";

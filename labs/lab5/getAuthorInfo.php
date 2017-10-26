@@ -18,7 +18,7 @@
 <?php
 
     
-    echo "<div id='results'>" . $record['firstName'] . " " . $record['lastName'] . " " . $record['picture'] . "<br/><br/>  Gender: " . $record['gender'] . "<br/><br/>Country of origin: " . $record['country'] . "<br/><br/>Date of birth: " . $record['dob'] . "<br/><br/>Date of death: " . $record['dod'] . "<br/><br/>Biography: <br/> " . $record['biography'] . "</div>";
+    echo "<div id='results'>" . $record['firstName'] . " " . $record['lastName'] . " " . "<img class='images' src=\"" . $record['picture'] . "\" />" . "<br/><br/>  Gender: " . $record['gender'] . "<br/><br/>Country of origin: " . $record['country'] . "<br/><br/>Date of birth: " . $record['dob'] . "<br/><br/>Date of death: " . $record['dod'] . "<br/><br/>Biography: <br/> " . $record['biography'] . "</div>";
     
 ?>
 
