@@ -39,13 +39,16 @@
     // print_r($record);
     
     if (empty($record)) {
-        echo "Wrong credentials!";  
+        // echo "Wrong credentials!";  
+        header("Location: index.php?login=false");
+        exit;
+        
     } else {
         $_SESSION['username '] = $record['username'];
         $_SESSION['adminFullName'] = $record['firstName'] . " " . $record['lastName'];
        // echo $_SESSION['adminFullName'];
        //echo "Successful login!";
-      header('Location: admin.php'); //redirects users to admin page
+        header('Location: admin.php'); //redirects users to admin page
     }
 
             

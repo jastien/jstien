@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+        <script>
+            function compareNumbers(){
+            var num1   = document.getElementById("num1").value;
+            var num2   = document.getElementById("num2").value;
+            
+            console.log(num1);
+            console.log(num2);
+          
+            if(num1 > 50 || num1 < 1 || num2 > 50 || num2 < 1){
+               document.getElementById("error").innerHTML= "Please double check your numbers they can not be greater than 50 or less than 1!" ;
+            }
+            else if (num1 > num2){
+               document.getElementById("result").innerHTML=num1 +" is grater than "+num2 ;
+            }
+            else if (num2 > num1) {
+                document.getElementById("result").innerHTML=num2 +" is grater than "+num1 ;
+            }
+            else if (num2 == num1){
+                document.getElementById("result").innerHTML=num1 +" and "+num2+" are the same!" ;
+            }
+            
+            }
+           
+        </script>
+        <style>
+            #error {
+                color: red;
+            }
+        </style>
+    </head>
+    <body>
+   
+        <form onsubmit="return false"> <!--onsubmit false prevents the submission of the form-->
+                Number1:  <input type="text" id="num1"/>
+                Number2: <input type="text" id="num2"/>
+                <input type="submit" value="display" onclick="compareNumbers()" />
+                <!--<button onclick="compareNumbers()"></button>-->
+        </form>
+        
+        <h2 id="result"></h2>
+        <h2 id="error"></h2>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    </body>
+</html>

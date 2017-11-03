@@ -1,41 +1,38 @@
 <?php
 
-        session_start();
+session_start();
+
+if (!isset($_SESSION['username'])) { //checks whether admin has already logged in
+    
+    header("Location: index.php");
+    exit;
+    
+}
+
+include '../../dbConnectionQuotes.php';
+$conn = getDatabaseConnection();
+
+function getAuthorInfo() {
+    global $conn;
         
-        if(!isset($_SESSION['username'])){ // checks whether admin has already logged in or not
-            
-            header("Location: index.php");
-            exit;
-            
-        }
+    $sql = "SELECT *
+            FROM q_author
+            WHERE authorId = " . $_GET['authorId'];    
+     
+    $stmt = $conn->prepare($sql);
+    $stmt->execute($namedParameters);
+    $record = $stmt->fetch(PDO::FETCH_ASSOC);  
+    return $record;
+}
 
-
-
-        include '../../dbConnectionQuotes.php';
-        $conn = getDatabaseConnection();
-    
-        function getAuthorInfo() {
-            global $conn;
-            
-            $sql = "SELECT *
-                    FROM q_author
-                    WHERE authorId = " . $_GET['authorId'];    
-             
-            $stmt = $conn->prepare($sql);
-            $stmt->execute($namedParameters);
-            $record = $stmt->fetch(PDO::FETCH_ASSOC);  
-            return $record;
-        }
-    
-    
-    if (isset($_GET['updateForm'])) { //Admin submitted update form
+if (isset($_GET['updateForm'])) { //Admin submitted update form
     
     //echo "Update form was submitted!";
     
     $sql = "UPDATE q_author SET 
-	        firstName = :fName,
-	        lastName = :lName,
-	        gender = :gender
+	            firstName = :fName,
+	            lastName = :lName,
+	            gender = :gender
             WHERE authorId = :authorId";
     
     $namedParameters = array();
@@ -49,19 +46,17 @@
 
     
 }
+
+
+if (isset($_GET['authorId'])) {
     
+    $authorInfo = getAuthorInfo();  
     
+    //print_r($authorInfo);
     
-    
-    
-    
-    if (isset($_GET['authorId'])) {
-        
-        $authorInfo = getAuthorInfo();  
-        
-        print_r($authorInfo);
-        
-    }
+}
+
+
 
 
 ?>
@@ -71,7 +66,6 @@
 <html>
     <head>
         <title> Update Author's Info </title>
-        <link rel="stylesheet" type="text/css" href="css/styles.css" />
     </head>
     <body>
 
@@ -83,7 +77,9 @@
             
             <form>
                 
-                <input type="hidden" name="authorId" value="<?=$authorInfo['authorId']?>"><br /> <!--hidden prevents the user to be able to change this-->
+                
+                 <input type="hidden" name="authorId" value="<?=$authorInfo['authorId']?>">
+                 
                 First Name: <input type="text" name="firstName" value="<?=$authorInfo['firstName']?>" /> <br />
                 Last Name: <input type="text" name="lastName" value="<?=$authorInfo['lastName']?>"/> <br />
                 Gender: <input type="radio" name="gender" value="F"
@@ -101,12 +97,11 @@
                             
                             
                             <label for="genderF"></label>Female
-                            <input type="radio" name="gender" value="M"
+                         <input type="radio" name="gender" value="M"
                          
                             <?= ($authorInfo['gender']=="M")?"checked":"" ?>
                          
-                            id="genderM"   /><label for="genderF"></label>Male <br />  
-                            
+                            id="genderM"   /><label for="genderF"></label>Male <br />   
                 Birth Date: <input type="date" name="dob" value="<?=$authorInfo['dob']?>"/><br /> 
                 Death Date: <input type="date" name="dod" value="<?=$authorInfo['dod']?>"/><br /> 
                 Profession: <input type="text" name="profession" value="<?=$authorInfo['profession']?>"/><br /> 
@@ -122,10 +117,7 @@
             </form>
             
         </fieldset>
-        
-        
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-    </body>    
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     </body>
 </html>
