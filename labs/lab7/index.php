@@ -1,3 +1,17 @@
+<?php
+
+function checkLogin() {
+    
+    if(isset($_GET['login'])){
+        
+        if ($_GET['login']=="false"){
+            echo "Wrong Credentials";
+        }
+        
+    }
+}
+?>
+
 <!DOCTYPE html>
 <html>
     <head>

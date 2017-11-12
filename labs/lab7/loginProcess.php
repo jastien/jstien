@@ -37,7 +37,8 @@ $record = $stmt->fetch(PDO::FETCH_ASSOC);
 
 if (empty($record)) {
     
-  echo "Wrong credentials!";  
+  header("Location: index.php?login=false");
+  exit; 
   
 } else {
     
