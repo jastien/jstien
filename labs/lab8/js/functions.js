@@ -25,6 +25,7 @@
             function checkGuess() {
                 // alert('I am a placeholder');
                 score.innerHTML = 'Wins: ' + correct + ' and losses: ' + incorrect + '!';
+                score.style.backgroundColor = 'white';
             
                 var userGuess = Number(guessField.value);
                 if (guessCount === 1) {
