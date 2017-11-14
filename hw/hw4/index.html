@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Assignment 4: Quiz with javaScript and jQuery</title>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+  
+        <link href="css/styles.css" rel="stylesheet">
+        <script type="text/javascript" src="js/functions.js"></script>
+    </head>
+    <body>
+        
+        <form id="quiz" name="quiz" action="" method="get">
+            <h1 id="mainTitle">Assignment 4: Quiz</h1>
+                
+                1. What is the capital of California?
+                <input type="text" id="california" name="question1">
+                <span id="displayAnswer1" class="error"></span>
+                
+                <br>
+                <br>
+                
+                2. What year did the American Civil War start?<br>
+                    <input type="radio" name="question2" id="1861" value="1861">&nbsp;1861 <br>
+                    <input type="radio" name="question2" id="1862" value="1862">&nbsp;1862 <br>
+                    <input type="radio" name="question2" id="1863" value="1863">&nbsp;1863 <br>
+                    <span id="displayAnswer2" class="error"></span>
+                    <br>
+                    <br>
+                
+                3. What city is the 'garlic capital of the world'?<br>
+                <input type="text" id="gilroy" name="question3"><br> 
+                <span id="displayAnswer3" class="error"></span>
+                <br>
+                <br>
+                    
+                
+                4. Who was the most recent president?<br>
+                <select id="president" name="question2">
+                    <option value="fdr">Franklin D. Roosevelt</option>
+                    <option value="theo">Theodore Roosevelt</option>
+                    <option value="jfk">John F. Kennedy</option>
+                    <option value="bo">Barack Obama</option>
+                </select>
+                <span id="displayAnswerIncorrect4" class="error"></span>
+                <span id="displayAnswerCorrect4" class="error"></span>
+                <br>
+                <br>
+                
+          
+            5. How many states are in the U.S?<br>
+            <!--<p><img src="img/usa_map.jpg" alt="map" style="width:400px;height:228px;"></p>-->
+            <input type="text" name="states" id="states"><br>
+            <span id="displayAnswerIncorrect5" class="error"></span>
+            <span id="displayAnswerCorrect5" class="error"></span>
+            <br>
+            <br>
+            
+             6. What goes on top of pizza?<br>
+            <input type="checkbox" value="cheese" name="food" id="food1">Cheese<br>
+            <input type="checkbox" value="vegetables" name="food" id="food2">Vegetables<br>
+            <input type="checkbox" value="cats" name="food" id="food3">Cats<br>
+            <span id="displayAnswerIncorrect6" class="error"></span>
+            <span id="displayAnswerCorrect6" class="error"></span>
+            <br>
+            <br>
+            
+            <input type="button" value="I'm finished!" id="submit" onclick="check();"/>
+            <br>
+            <button type="reset" value="Reset" id="reset">Reset</button>
+        
+        </form>
+        
+        <div id="after_submit"><h2>Feedback: </h2>
+            <p id="number_correct"></p>
+            <p id="message"></p>
+            <p id="congrats"></p>
+            <button type="reset" value="Reset" id="resetSecondButton">Reset</button>
+        </div>
+      
+    </body>
+    
+    <script>
+
+    </script>
+</html>

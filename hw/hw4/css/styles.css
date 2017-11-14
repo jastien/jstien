@@ -1,0 +1,25 @@
+#after_submit {
+    visibility: hidden;
+}
+
+#quiz{
+    margin-left: 10px;
+    background: #d2def2;
+    padding: 20px 20px 20px 20px;
+    width: 400px;
+    border-radius: 20px;
+    /*border: 1px solid black;*/
+    float: left;
+}
+
+#mainTitle{
+    text-align: center;
+}
+
+#after_submit{
+    /*border: 1px solid black;*/
+    text-align: center;
+    padding-left: 20px;
+}
+
+
