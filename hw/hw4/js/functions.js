@@ -80,7 +80,7 @@
         
             var range;
             var congratulations = '<h1 style="color:green;">Congratulations!</h1>';
-             var image = ("<img id='fireworksImage' src='img/fireworks.png'>");
+            var image = ("<img id='fireworksImage' src='img/fireworks.png'>");
             
         
             if (score < 5) {

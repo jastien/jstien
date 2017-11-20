@@ -1,0 +1,15 @@
+table{
+    margin: auto;
+}
+
+h1, legend{
+    text-align: center;
+}
+
+#zipError{
+    color:red;
+}
+
+td{
+    padding: 5px;
+}
