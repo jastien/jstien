@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina');
+
+#after_submit {
+    visibility: hidden;
+}
+
+#quiz{
+    margin-left: 10px;
+    background: #d2def2;
+    padding: 20px 20px 20px 20px;
+    width: 400px;
+    border-radius: 20px;
+    float: left;
+}
+
+#mainTitle{
+    text-align: center;
+}
+
+#after_submit{
+    text-align: center;
+    padding-left: 20px;
+}
+
+#content{
+    background-color: #FFFBFB;
+    width: 860px;
+    border-radius: 25px;
+    margin: auto;
+}
+
+html {
+    height: 100%;
+}
+
+#index {
+    background: -webkit-linear-gradient(#2b8cdc, white);
+}
+
+#loginForm{
+    font-family: 'Baloo Bhaina', cursive;
+    text-align: center; 
+}
+
+h1{
+    font-family: 'Baloo Bhaina', cursive;
+    text-align: center; 
+}

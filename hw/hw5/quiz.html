@@ -1,0 +1,107 @@
+<?php
+session_start();
+
+if (!isset($_SESSION["username"])) { //checks whether the admin has logged in
+    header("Location: login.php"); 
+    exit;
+}
+$("#welcome").append("Welcome ".$_SESSION['username']);
+
+?>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Assignment 4: Quiz with javaScript and jQuery</title>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+  
+        <link href="css/styles.css" rel="stylesheet">
+        <script type="text/javascript" src="js/functions.js"></script>
+    </head>
+    <body>
+        
+        <a href="logout.php"><input type="submit" value="Log out"/></a><br>
+        
+        <form id="quiz" name="quiz" action="" method="get">
+
+            <h1 id="mainTitle">Assignment 4: Quiz</h1>
+            <span id="welcome"></span>
+                
+                1. What is the capital of California?
+                <input type="text" id="california" name="question1">
+                <span id="displayAnswer1" class="error"></span>
+                
+                <br>
+                <br>
+                
+                2. What year did the American Civil War start?<br>
+                    <input type="radio" name="question2" id="1861" value="1861">&nbsp;1861 <br>
+                    <input type="radio" name="question2" id="1862" value="1862">&nbsp;1862 <br>
+                    <input type="radio" name="question2" id="1863" value="1863">&nbsp;1863 <br>
+                    <span id="displayAnswer2" class="error"></span>
+                    <br>
+                    <br>
+                
+                3. What city is the 'garlic capital of the world'?<br>
+                <input type="text" id="gilroy" name="question3"><br> 
+                <span id="displayAnswer3" class="error"></span>
+                <br>
+                <br>
+                    
+                
+                4. Who was the most recent president?<br>
+                <select id="president" id="bo" name="question4">
+                    <option id="fdr" value="fdr">Franklin D. Roosevelt</option>
+                    <option id="theo" value="theo">Theodore Roosevelt</option>
+                    <option id="jfk" value="jfk">John F. Kennedy</option>
+                    <option id="bo" value="bo">Barack Obama</option>
+                </select>
+                <span id="displayAnswer4" class="error"></span>
+                <!--<span id="displayAnswerIncorrect4" class="error"></span>-->
+                <!--<span id="displayAnswerCorrect4" class="error"></span>-->
+                <br>
+                <br>
+                
+          
+            5. How many states are in the U.S?<br>
+            <!--<p><img src="img/usa_map.jpg" alt="map" style="width:400px;height:228px;"></p>-->
+            <input type="text" name="question5" id="states"><br>
+            <span id="displayAnswer5" class="error"></span>
+            <span id="displayAnswerIncorrect5" class="error"></span>
+            <span id="displayAnswerCorrect5" class="error"></span>
+            <br>
+            <br>
+            
+            6. What is 2+2?<br>
+                <input type="radio" name="question6" id="4" value="4">&nbsp;4 <br>
+                <input type="radio" name="question6" id="5" value="5">&nbsp;5 <br>
+                <span id="displayAnswer6" class="error"></span>
+            <br>
+            <br>
+            
+            <input type="button" value="I'm finished!" id="submit"/>
+            <br>
+            <button type="reset" value="Reset" id="reset">Reset</button>
+        
+        </form>
+        
+        <div id="after_submit"><h2>Feedback: </h2>
+            <p id="number_correct"></p>
+            <p id="message"></p>
+            <p id="score"></p>
+            <p id="scoreAverage"></p>
+            <p id="congrats"></p>
+            <button type="reset" value="Reset" id="resetSecondButton">Reset</button>
+        </div>
+      
+    </body>
+    
+    <script>
+    
+    
+ 
+    </script>
+</html>
