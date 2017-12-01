@@ -63,7 +63,7 @@ function authorList(){
         foreach($authors as $author) {
             
             echo "[<a href='updateAuthor.php?authorId=".$author['authorId']."'>Update</a>] ";
-            //echo "[<a href='deleteAuthor.php?authorId=".$author['authorId']."'>Delete</a>] ";
+            // echo "[<a href='deleteAuthor.php?authorId=".$author['authorId']."'>Delete</a>] ";
             
             echo "<form style='display:inline' action='deleteAuthor.php' onsubmit='return confirmDelete()'>
                     <input type='hidden' name='authorId' value='".$author['authorId']."'>

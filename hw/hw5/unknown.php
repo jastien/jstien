@@ -1,9 +1,3 @@
-<!--3. The userId, score and date/time is stored in the database when -->
-<!--    submitting the quiz using an AJAX call (hint: use a "timestamp" field type in MySQL)  (20 points)-->
-
-<!--4. The number of times the user has taken the quiz and average grade -->
-<!--    are displayed after submitting the quiz, right below the score (using AJAX) (20 points)-->
-
 <?php
 session_start();
 if (!isset($_SESSION["username"])) { //checks whether the admin has logged in

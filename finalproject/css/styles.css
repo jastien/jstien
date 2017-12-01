@@ -1,0 +1,13 @@
+.content {
+text-align: center;
+}
+
+#library, #logIn{
+    font-family: 'Spectral SC', serif;
+    font-size: 40px;
+}
+
+body {
+    background-color:#c4c7b1 !important;
+
+}
