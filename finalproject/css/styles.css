@@ -1,5 +1,11 @@
-.content {
-text-align: center;
+tr:nth-child(odd){
+  background-color: #dcdcdc;
+  color: black;
+  text-align: center;
+}
+tr:nth-child(even) {
+    background: #b8b8b8;
+    text-align: center;
 }
 
 #library, #logIn{
@@ -9,5 +15,27 @@ text-align: center;
 
 body {
     background-color:#c4c7b1 !important;
+}
 
+th{
+    color: black;
+    width: 150px;
+    text-align: center;
+}
+
+#libraryForm{
+    text-align: center;
+}
+
+#books{
+    margin: auto;
+}
+
+#logInContent{
+    text-align: center;
+}
+
+#logout, #addBook{
+    text-align: center;
+    padding: 10px;
 }

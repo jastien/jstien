@@ -1,5 +1,5 @@
 <?php
-// session_start(); //starts or resumes an existing session
+session_start(); //starts or resumes an existing session
 
 
 //print_r($_POST); //displays values passed from login form

@@ -1,0 +1,8 @@
+[05-Dec-2017 06:38:27 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/jstien/finalproject/calls/loginProcess.php on line 2
+[05-Dec-2017 06:38:27 UTC] PHP Stack trace:
+[05-Dec-2017 06:38:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/calls/loginProcess.php:0
+[05-Dec-2017 06:38:27 UTC] PHP   2. log() /home/ubuntu/workspace/jstien/finalproject/calls/loginProcess.php:2
+[05-Dec-2017 06:39:02 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/jstien/finalproject/calls/loginProcess.php on line 2
+[05-Dec-2017 06:39:02 UTC] PHP Stack trace:
+[05-Dec-2017 06:39:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/calls/loginProcess.php:0
+[05-Dec-2017 06:39:02 UTC] PHP   2. log() /home/ubuntu/workspace/jstien/finalproject/calls/loginProcess.php:2

@@ -541,3 +541,642 @@ Stack trace:
 [01-Dec-2017 03:27:03 UTC] PHP Stack trace:
 [01-Dec-2017 03:27:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
 [01-Dec-2017 03:27:03 UTC] PHP   2. bookList() /home/ubuntu/workspace/jstien/finalproject/index.php:65
+[01-Dec-2017 06:25:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/jstien/finalproject/index.php on line 98
+[01-Dec-2017 06:26:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/jstien/finalproject/index.php on line 98
+[01-Dec-2017 06:26:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/jstien/finalproject/index.php on line 98
+[01-Dec-2017 07:10:21 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 126
+[01-Dec-2017 07:10:21 UTC] PHP Stack trace:
+[01-Dec-2017 07:10:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:10:22 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 126
+[01-Dec-2017 07:10:22 UTC] PHP Stack trace:
+[01-Dec-2017 07:10:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:10:25 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 126
+[01-Dec-2017 07:10:25 UTC] PHP Stack trace:
+[01-Dec-2017 07:10:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:10:37 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 126
+[01-Dec-2017 07:10:37 UTC] PHP Stack trace:
+[01-Dec-2017 07:10:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:15:02 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 133
+[01-Dec-2017 07:15:02 UTC] PHP Stack trace:
+[01-Dec-2017 07:15:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:15:30 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 134
+[01-Dec-2017 07:15:30 UTC] PHP Stack trace:
+[01-Dec-2017 07:15:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:20:53 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 135
+[01-Dec-2017 07:20:53 UTC] PHP Stack trace:
+[01-Dec-2017 07:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:20:56 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 135
+[01-Dec-2017 07:20:56 UTC] PHP Stack trace:
+[01-Dec-2017 07:20:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:20:59 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 135
+[01-Dec-2017 07:20:59 UTC] PHP Stack trace:
+[01-Dec-2017 07:20:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:30:16 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 113
+[01-Dec-2017 07:30:16 UTC] PHP Stack trace:
+[01-Dec-2017 07:30:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:30:19 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 113
+[01-Dec-2017 07:30:19 UTC] PHP Stack trace:
+[01-Dec-2017 07:30:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:32:34 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 113
+[01-Dec-2017 07:32:34 UTC] PHP Stack trace:
+[01-Dec-2017 07:32:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:32:36 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 113
+[01-Dec-2017 07:32:36 UTC] PHP Stack trace:
+[01-Dec-2017 07:32:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:34:10 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 113
+[01-Dec-2017 07:34:10 UTC] PHP Stack trace:
+[01-Dec-2017 07:34:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:34:13 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 113
+[01-Dec-2017 07:34:13 UTC] PHP Stack trace:
+[01-Dec-2017 07:34:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:35:37 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 113
+[01-Dec-2017 07:35:37 UTC] PHP Stack trace:
+[01-Dec-2017 07:35:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:35:40 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 113
+[01-Dec-2017 07:35:40 UTC] PHP Stack trace:
+[01-Dec-2017 07:35:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:36:23 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 113
+[01-Dec-2017 07:36:23 UTC] PHP Stack trace:
+[01-Dec-2017 07:36:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:36:30 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 113
+[01-Dec-2017 07:36:30 UTC] PHP Stack trace:
+[01-Dec-2017 07:36:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:38:19 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 107
+[01-Dec-2017 07:38:19 UTC] PHP Stack trace:
+[01-Dec-2017 07:38:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:38:22 UTC] PHP Fatal error:  Call to undefined function displayQuotes() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 107
+[01-Dec-2017 07:38:22 UTC] PHP Stack trace:
+[01-Dec-2017 07:38:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:50:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/index.php on line 47
+[01-Dec-2017 07:50:57 UTC] PHP Stack trace:
+[01-Dec-2017 07:50:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:50:57 UTC] PHP   2. bookList() /home/ubuntu/workspace/jstien/finalproject/index.php:107
+[01-Dec-2017 07:53:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/jstien/finalproject/index.php on line 153
+[01-Dec-2017 07:53:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/jstien/finalproject/index.php on line 153
+[01-Dec-2017 07:53:54 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/index.php on line 47
+[01-Dec-2017 07:53:54 UTC] PHP Stack trace:
+[01-Dec-2017 07:53:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 07:53:54 UTC] PHP   2. bookList() /home/ubuntu/workspace/jstien/finalproject/index.php:107
+[01-Dec-2017 16:23:16 UTC] PHP Fatal error:  Call to undefined function bookList() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 111
+[01-Dec-2017 16:23:16 UTC] PHP Stack trace:
+[01-Dec-2017 16:23:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 16:23:39 UTC] PHP Fatal error:  Call to undefined function bookList() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 111
+[01-Dec-2017 16:23:39 UTC] PHP Stack trace:
+[01-Dec-2017 16:23:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 16:27:46 UTC] PHP Fatal error:  Call to undefined function bookList() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 111
+[01-Dec-2017 16:27:46 UTC] PHP Stack trace:
+[01-Dec-2017 16:27:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 16:28:10 UTC] PHP Fatal error:  Call to undefined function bookList() in /home/ubuntu/workspace/jstien/finalproject/index.php on line 111
+[01-Dec-2017 16:28:10 UTC] PHP Stack trace:
+[01-Dec-2017 16:28:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/index.php:0
+[01-Dec-2017 21:33:18 UTC] PHP Warning:  include(../includes/dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/jstien/project/loginProcess.php on line 3
+[01-Dec-2017 21:33:18 UTC] PHP Stack trace:
+[01-Dec-2017 21:33:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/project/loginProcess.php:0
+[01-Dec-2017 21:33:18 UTC] PHP Warning:  include(): Failed opening '../includes/dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/jstien/project/loginProcess.php on line 3
+[01-Dec-2017 21:33:18 UTC] PHP Stack trace:
+[01-Dec-2017 21:33:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/project/loginProcess.php:0
+[01-Dec-2017 21:33:18 UTC] PHP Fatal error:  Call to undefined function getDBConnection() in /home/ubuntu/workspace/jstien/project/loginProcess.php on line 4
+[01-Dec-2017 21:33:18 UTC] PHP Stack trace:
+[01-Dec-2017 21:33:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/project/loginProcess.php:0
+[02-Dec-2017 22:49:00 UTC] PHP Catchable fatal error:  Object of class PDO could not be converted to string in /home/ubuntu/workspace/jstien/finalproject/calls/dbConnection.php on line 22
+[02-Dec-2017 22:49:00 UTC] PHP Stack trace:
+[02-Dec-2017 22:49:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/displayBookAjax.php:0
+[02-Dec-2017 22:49:00 UTC] PHP   2. getDatabaseConnection() /home/ubuntu/workspace/jstien/finalproject/displayBookAjax.php:3
+[04-Dec-2017 17:14:32 UTC] PHP Warning:  include(../../dbConnectionQuotes.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 6
+[04-Dec-2017 17:14:32 UTC] PHP Stack trace:
+[04-Dec-2017 17:14:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 17:14:32 UTC] PHP Warning:  include(): Failed opening '../../dbConnectionQuotes.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 6
+[04-Dec-2017 17:14:32 UTC] PHP Stack trace:
+[04-Dec-2017 17:14:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 17:14:32 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 7
+[04-Dec-2017 17:14:32 UTC] PHP Stack trace:
+[04-Dec-2017 17:14:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 17:14:58 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 25
+[04-Dec-2017 17:14:58 UTC] PHP Stack trace:
+[04-Dec-2017 17:14:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 17:15:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'finalproject.q_author' doesn't exist' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 17:15:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'finalproject.q_author' doesn't exist' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 17:41:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bookImage' cannot be null' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:35
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(35): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 35
+[04-Dec-2017 17:42:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bookImage' cannot be null' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:35
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(35): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 35
+[04-Dec-2017 17:42:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bookImage' cannot be null' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:35
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(35): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 35
+[04-Dec-2017 17:42:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bookImage' cannot be null' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:35
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(35): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 35
+[04-Dec-2017 17:47:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bookName' cannot be null' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 17:47:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bookName' cannot be null' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 17:47:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bookName' cannot be null' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 17:49:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 17:53:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 17:53:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 17:54:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 17:54:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 17:55:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 17:55:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 17:55:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 18:13:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 18:13:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 18:16:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 18:16:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 26
+[04-Dec-2017 19:07:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 43
+[04-Dec-2017 19:07:05 UTC] PHP Stack trace:
+[04-Dec-2017 19:07:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/editBook.php:0
+[04-Dec-2017 19:07:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'finalproject.q_author' doesn't exist' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 44
+[04-Dec-2017 19:08:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'finalproject.q_author' doesn't exist' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 44
+[04-Dec-2017 19:08:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'finalproject.q_author' doesn't exist' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 44
+[04-Dec-2017 19:36:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:23
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(23): PDOStatement->execute(NULL)
+#1 /home/ubuntu/workspace/jstien/finalproject/editBook.php(67): getAuthorInfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 23
+[04-Dec-2017 19:36:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:23
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(23): PDOStatement->execute(NULL)
+#1 /home/ubuntu/workspace/jstien/finalproject/editBook.php(67): getAuthorInfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 23
+[04-Dec-2017 19:37:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:23
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(23): PDOStatement->execute(NULL)
+#1 /home/ubuntu/workspace/jstien/finalproject/editBook.php(67): getAuthorInfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 23
+[04-Dec-2017 19:38:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:23
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(23): PDOStatement->execute(NULL)
+#1 /home/ubuntu/workspace/jstien/finalproject/editBook.php(67): getAuthorInfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 23
+[04-Dec-2017 19:38:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:23
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(23): PDOStatement->execute(NULL)
+#1 /home/ubuntu/workspace/jstien/finalproject/editBook.php(67): getAuthorInfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 23
+[04-Dec-2017 19:43:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:23
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(23): PDOStatement->execute(NULL)
+#1 /home/ubuntu/workspace/jstien/finalproject/editBook.php(67): getBookInfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 23
+[04-Dec-2017 19:45:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(54): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 54
+[04-Dec-2017 20:21:27 UTC] PHP Fatal error:  Call to undefined function displayGenres() in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 69
+[04-Dec-2017 20:21:27 UTC] PHP Stack trace:
+[04-Dec-2017 20:21:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:22:23 UTC] PHP Fatal error:  Call to undefined function displayGenres() in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 92
+[04-Dec-2017 20:22:23 UTC] PHP Stack trace:
+[04-Dec-2017 20:22:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:22:35 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 47
+[04-Dec-2017 20:22:35 UTC] PHP Stack trace:
+[04-Dec-2017 20:22:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:22:35 UTC] PHP   2. displayGenres() /home/ubuntu/workspace/jstien/finalproject/addBook.php:92
+[04-Dec-2017 20:22:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 47
+[04-Dec-2017 20:22:45 UTC] PHP Stack trace:
+[04-Dec-2017 20:22:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:22:45 UTC] PHP   2. displayGenres() /home/ubuntu/workspace/jstien/finalproject/addBook.php:92
+[04-Dec-2017 20:23:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 47
+[04-Dec-2017 20:23:11 UTC] PHP Stack trace:
+[04-Dec-2017 20:23:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:23:11 UTC] PHP   2. displayGenres() /home/ubuntu/workspace/jstien/finalproject/addBook.php:92
+[04-Dec-2017 20:24:23 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 47
+[04-Dec-2017 20:24:23 UTC] PHP Stack trace:
+[04-Dec-2017 20:24:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:24:23 UTC] PHP   2. displayGenres() /home/ubuntu/workspace/jstien/finalproject/addBook.php:94
+[04-Dec-2017 20:24:41 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 47
+[04-Dec-2017 20:24:41 UTC] PHP Stack trace:
+[04-Dec-2017 20:24:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:24:41 UTC] PHP   2. displayGenres() /home/ubuntu/workspace/jstien/finalproject/addBook.php:93
+[04-Dec-2017 20:24:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 47
+[04-Dec-2017 20:24:52 UTC] PHP Stack trace:
+[04-Dec-2017 20:24:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:24:52 UTC] PHP   2. displayGenres() /home/ubuntu/workspace/jstien/finalproject/addBook.php:93
+[04-Dec-2017 20:25:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 47
+[04-Dec-2017 20:25:45 UTC] PHP Stack trace:
+[04-Dec-2017 20:25:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:25:45 UTC] PHP   2. displayGenres() /home/ubuntu/workspace/jstien/finalproject/addBook.php:92
+[04-Dec-2017 20:26:41 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 9
+[04-Dec-2017 20:26:41 UTC] PHP Stack trace:
+[04-Dec-2017 20:26:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:26:41 UTC] PHP   2. displayGenres() /home/ubuntu/workspace/jstien/finalproject/addBook.php:90
+[04-Dec-2017 20:26:48 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 9
+[04-Dec-2017 20:26:48 UTC] PHP Stack trace:
+[04-Dec-2017 20:26:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:26:48 UTC] PHP   2. displayGenres() /home/ubuntu/workspace/jstien/finalproject/addBook.php:90
+[04-Dec-2017 20:30:36 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 8
+[04-Dec-2017 20:30:36 UTC] PHP Stack trace:
+[04-Dec-2017 20:30:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:30:36 UTC] PHP   2. displayGenres() /home/ubuntu/workspace/jstien/finalproject/addBook.php:91
+[04-Dec-2017 20:31:23 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 8
+[04-Dec-2017 20:31:23 UTC] PHP Stack trace:
+[04-Dec-2017 20:31:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:31:23 UTC] PHP   2. displayGenres() /home/ubuntu/workspace/jstien/finalproject/addBook.php:91
+[04-Dec-2017 20:31:37 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 8
+[04-Dec-2017 20:31:37 UTC] PHP Stack trace:
+[04-Dec-2017 20:31:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:31:37 UTC] PHP   2. displayGenres() /home/ubuntu/workspace/jstien/finalproject/addBook.php:91
+[04-Dec-2017 20:35:39 UTC] PHP Fatal error:  Cannot redeclare getDatabaseConnection() (previously declared in /home/ubuntu/workspace/jstien/finalproject/calls/dbConnection.php:3) in /home/ubuntu/workspace/jstien/finalproject/calls/dbConnection.php on line 3
+[04-Dec-2017 20:35:39 UTC] PHP Stack trace:
+[04-Dec-2017 20:35:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/addBook.php:0
+[04-Dec-2017 20:44:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'genreId' cannot be null' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[04-Dec-2017 20:55:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'genreId' cannot be null' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[04-Dec-2017 20:56:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[04-Dec-2017 21:03:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(54): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 54
+[04-Dec-2017 21:07:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(54): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 54
+[04-Dec-2017 21:08:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(54): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 54
+[04-Dec-2017 21:08:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(54): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 54
+[04-Dec-2017 21:09:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(54): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 54
+[04-Dec-2017 21:09:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(54): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 54
+[04-Dec-2017 21:10:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(54): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 54
+[04-Dec-2017 21:11:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[04-Dec-2017 21:11:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[04-Dec-2017 21:12:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.
+            bookPublisher = 'Little, Brown - USA',
+            bookPublished =' at line 4' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[04-Dec-2017 21:12:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.
+            bookPublisher = 'Little, Brown - USA',
+            bookPublished =' at line 4' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[04-Dec-2017 21:13:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.
+            bookPublisher = 'Little, Brown - USA',
+            bookPublished =' at line 4' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[04-Dec-2017 21:13:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE bookId = NULL' at line 9' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[04-Dec-2017 21:14:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE bookId = NULL' at line 9' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[04-Dec-2017 21:14:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE bookId = NULL' at line 9' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[04-Dec-2017 21:15:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE bookId = NULL' at line 9' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[04-Dec-2017 21:15:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE bookId = NULL' at line 9' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[04-Dec-2017 21:16:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE bookId = NULL' at line 9' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[04-Dec-2017 21:17:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE bookId = NULL' at line 9' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[04-Dec-2017 21:21:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE bookId = NULL' at line 9' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:55
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 55
+[05-Dec-2017 06:39:02 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 2
+[05-Dec-2017 06:39:02 UTC] PHP Stack trace:
+[05-Dec-2017 06:39:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/admin.php:0
+[05-Dec-2017 06:39:02 UTC] PHP   2. log() /home/ubuntu/workspace/jstien/finalproject/admin.php:2
+[05-Dec-2017 06:43:27 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 2
+[05-Dec-2017 06:43:27 UTC] PHP Stack trace:
+[05-Dec-2017 06:43:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/admin.php:0
+[05-Dec-2017 06:43:27 UTC] PHP   2. log() /home/ubuntu/workspace/jstien/finalproject/admin.php:2
+[05-Dec-2017 06:43:28 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 2
+[05-Dec-2017 06:43:28 UTC] PHP Stack trace:
+[05-Dec-2017 06:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/admin.php:0
+[05-Dec-2017 06:43:28 UTC] PHP   2. log() /home/ubuntu/workspace/jstien/finalproject/admin.php:2
+[05-Dec-2017 06:43:46 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 2
+[05-Dec-2017 06:43:46 UTC] PHP Stack trace:
+[05-Dec-2017 06:43:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/admin.php:0
+[05-Dec-2017 06:43:46 UTC] PHP   2. log() /home/ubuntu/workspace/jstien/finalproject/admin.php:2
+[05-Dec-2017 06:44:04 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 2
+[05-Dec-2017 06:44:04 UTC] PHP Stack trace:
+[05-Dec-2017 06:44:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/admin.php:0
+[05-Dec-2017 06:44:04 UTC] PHP   2. log() /home/ubuntu/workspace/jstien/finalproject/admin.php:2
+[05-Dec-2017 06:44:51 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 2
+[05-Dec-2017 06:44:51 UTC] PHP Stack trace:
+[05-Dec-2017 06:44:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/admin.php:0
+[05-Dec-2017 06:44:51 UTC] PHP   2. log() /home/ubuntu/workspace/jstien/finalproject/admin.php:2
+[05-Dec-2017 07:06:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column '1undefined' in 'where clause'' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:23
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(23): PDOStatement->execute(NULL)
+#1 /home/ubuntu/workspace/jstien/finalproject/editBook.php(69): getBookInfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 23
+[05-Dec-2017 07:07:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column '1undefined' in 'where clause'' in /home/ubuntu/workspace/jstien/finalproject/editBook.php:23
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/editBook.php(23): PDOStatement->execute(NULL)
+#1 /home/ubuntu/workspace/jstien/finalproject/editBook.php(69): getBookInfo()
+#2 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 23
+[05-Dec-2017 07:49:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '28' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 07:50:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 07:53:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'genreId' cannot be null' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 07:54:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 07:56:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 07:56:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 58
+[05-Dec-2017 07:56:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 58
+[05-Dec-2017 07:58:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 58
+[05-Dec-2017 07:59:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 58
+[05-Dec-2017 08:00:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 58
+[05-Dec-2017 08:02:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 58
+[05-Dec-2017 08:03:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 58
+[05-Dec-2017 08:10:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 58
+[05-Dec-2017 08:10:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 58
+[05-Dec-2017 08:10:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 58
+[05-Dec-2017 08:10:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(58): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 58
+[05-Dec-2017 08:12:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 08:12:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 08:14:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 08:15:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 08:15:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 08:16:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 08:17:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 08:18:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 18:00:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '25' for key 'PRIMARY'' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 18:02:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:59
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 59
+[05-Dec-2017 18:26:42 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/jstien/finalproject/editBook.php on line 58
+[05-Dec-2017 18:26:42 UTC] PHP Stack trace:
+[05-Dec-2017 18:26:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/jstien/finalproject/editBook.php:0
+[05-Dec-2017 19:52:14 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/jstien/finalproject/displayBookAjax.php on line 13
+[05-Dec-2017 19:52:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/jstien/finalproject/displayBookAjax.php on line 13
+[07-Dec-2017 05:04:18 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting ';' in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 92
+[07-Dec-2017 05:06:06 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 92
+[07-Dec-2017 05:06:07 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 92
+[07-Dec-2017 05:06:43 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 92
+[07-Dec-2017 05:07:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 92
+[07-Dec-2017 05:08:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 93
+[07-Dec-2017 05:08:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 93
+[07-Dec-2017 05:08:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/jstien/finalproject/admin.php on line 93
+[07-Dec-2017 06:12:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'genreId' cannot be null' in /home/ubuntu/workspace/jstien/finalproject/addBook.php:60
+Stack trace:
+#0 /home/ubuntu/workspace/jstien/finalproject/addBook.php(60): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/jstien/finalproject/addBook.php on line 60
