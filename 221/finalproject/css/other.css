@@ -1,0 +1,63 @@
+html {
+    background-color: #3f3f3f;
+    width: 100%;
+}
+
+#navTab {
+    list-style: none;
+    /*margin:auto;*/
+}
+
+#navTab li {
+    display: inline-block;
+}
+
+#navTab li a {
+    padding: 20px;
+    background-color: #3f3f3f;
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+p{
+    color: black;
+    font-size: 24px;
+}
+
+
+.bg {
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/*CSS for contact.html */
+#contactForm {
+    background: rgb(225, 225, 225);
+    background: rgba(225, 225, 225, .9);
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+/*CSS for clubs.html*/
+#container {
+    background: rgb(225, 225, 225);
+    background: rgba(225, 225, 225, .9);
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+/*CSS for learn.html*/
+#rugbyForm {
+    background: rgb(225, 225, 225);
+    background: rgba(225, 225, 225, .9);
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}

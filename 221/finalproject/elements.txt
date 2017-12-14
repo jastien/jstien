@@ -1,0 +1,19 @@
+EVENTS
+1. Event: Hover over menu changes color. Applied to all pages.  
+2  Event: Mouseleave, change menu color back to original. Applied to all pages
+3. Event: .click function on clubs.js
+4. Event: .click on contact.js
+5. Event: .submit on contact.js
+
+FORMS
+1. Interactive form on clubs.js
+2. Interactive form on contact.js
+3. Interactive form on index.js
+
+EFFECTS
+1. jquery effect .hide on mainscript.js
+2. jquery effect .show on mainscript.js
+
+UI ELEMENTS
+1. jQuery buttons on clubs.js, clubs.js and contact.js
+2. Accordion on learn.js

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" href="/finalproject/css/index.css" type="text/css" />
+
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+
+<body>
+    <div id="body">
+        <div id="header">
+
+            <ul id="navTab">
+                <img class="bg" src="img/field.jpg">
+                <li><a href="index.html" id="selected">Home</a></li>
+                <li><a href="learn.html">Learn about rugby</a></li>
+                <li><a href="clubs.html">Clubs</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+
+            <h1>A rugby enthusiast's rugby website</h1>
+
+            <!--Show or hide slideshow-->
+            <div id="optionDiv">
+                <h2>Show slideshow</h2>
+                <button id="hide">Hide</button>
+                <button id="show">Show</button>
+            </div>
+            <!-- End show or hide slideshow-->
+
+            <!--BMI calculator-->
+            <form id="bmi" name="bmiForm">
+                <h2>Calculate your BMI</h2>
+                Your Weight(kg): <input type="text" name="weight" size="20"><br/> Your Height(cm): <input type="text" name="height" size="20"><br/>
+                <input type="button" value="Calculate BMI" onClick="calculateBmi()"><br/> Your BMI: <input type="text" name="bmi" size="20"><br/> This Means: <input type="text" name="meaning" size="20"><br />
+                <input type="reset" value="Reset" />
+            </form>
+            <!--End BMI calculator-->
+            
+            <!--Slideshow-->
+            <div id="slideShow">
+                <div class="slideshow-container">
+                    <div class="mySlides fade">
+                        <div class="numbertext">1 / 4</div>
+                        <img src="/finalproject/img/1.jpg">
+                        <div class="text">CSUMB Women's team</div>
+                    </div>
+
+                    <div class="mySlides fade">
+                        <div class="numbertext">2 / 4</div>
+                        <img src="/finalproject/img/2.jpg" style="width:100%">
+                        <div class="text">CSUMBS Women's team</div>
+                    </div>
+
+                    <div class="mySlides fade">
+                        <div class="numbertext">3 / 4</div>
+                        <img src="/finalproject/img/3.jpg" style="width:100%">
+                        <div class="text">CSUMBS Women's team</div>
+                    </div>
+
+                    <div class="mySlides fade">
+                        <div class="numbertext">4 / 4</div>
+                        <img src="/finalproject/img/4.jpg" style="width:100%">
+                        <div class="text">CSUMBS Women's team</div>
+                    </div>
+
+                    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                </div>
+                <br>
+
+                <div style="text-align:center">
+                    <span class="dot" onclick="currentSlide(1)"></span>
+                    <span class="dot" onclick="currentSlide(2)"></span>
+                    <span class="dot" onclick="currentSlide(3)"></span>
+                    <span class="dot" onclick="currentSlide(4)"></span>
+                </div>
+            </div>
+            <!--End Slideshow-->
+
+        </div>
+    </div>
+    <script type="text/javascript" src="/finalproject/js/mainscript.js"></script>
+</body>
+
+</html>
